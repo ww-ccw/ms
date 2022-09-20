@@ -1,0 +1,4 @@
+# Project exclude paths
+/ms-dao/target/
+/ms-service/target/
+/ms-web/target/
